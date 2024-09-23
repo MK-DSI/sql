@@ -1,0 +1,8 @@
+Write: Reflect on your previous work and how you would adjust to include ethics and inequity components. Total length should be a few paragraphs, no more than one page.
+
+
+I worked with several types of data. First example included clinical patient information, clinical data and analytical data. One observation I made was a significant skew in racial representation in the population who's data we had. I have not designed the clinical studies, however one of the conclusions was the obvious limitations of findings to the specific race and a need for an additional study to include racial representation to confirm the findings and validate them on more diverse population. This could mean additional expense and limitation of validity of the performed study. 
+
+
+Second example is about my work at a company who works with different clients and is trusted with highly sensitive proprietary customer data. In order to develop new products or capabilities, we need to train our models on data, as often clients do not want their data to be used for model training. To protect customer's proprietary information, we had to generate an entire set of synthetic data based on client agnostic information, while resembling representative formats of data to train those models. This is an example of an approach which can be used to avoid ethical concerns.  
+ 
