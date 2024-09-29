@@ -15,7 +15,8 @@ _Hint, search type 1 vs type 2 slowly changing dimensions._
 
 Bonus: Are there privacy implications to this, why or why not?
 ```
-Your answer...
+Answer:
+There are privacy implications which would allow people with access to this information to have full history of the customers address. If there is not explicit consent from  the customer about permission to store their data indefinitely and no information about ability to delete this information upon request, this will be unethical. 
 ```
 
 ## Question 4
@@ -23,7 +24,14 @@ Review the AdventureWorks Schema [here](https://i.stack.imgur.com/LMu4W.gif)
 
 Highlight at least two differences between it and your ERD. Would you change anything in yours?
 ```
-Your answer...
+Answer:
+There is a difference in multiple components of the schema between my and provided architecture:
+1. The amount of sub-tables per category.
+2. Organization of the schema, including table codes and connectivity.
+3. Difference in categories in each table.
+4. Overall complexity of the schema/architecture is more sophisticated in the provided example.
+5. Types of collected information fields in each table.
+6. Software used.
 ```
 
 # Criteria
